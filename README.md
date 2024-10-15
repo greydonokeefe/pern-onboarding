@@ -18,7 +18,7 @@
 
 8. Now open your postgres terminal and type "\dt", you should see "pern_demo", nice job!
 
-9. In the postgres terminal, run "SELECT * FROM pern_demo;", you should see 2 rows
+9. In the postgres terminal, run "SELECT \* FROM pern_demo;", you should see 2 rows
 
 10. Now in VSCode, in the root project directory create two terminals, cd backend and run: npm start, cd client and run: npm start, then enter y to run on port 3001
 
@@ -32,3 +32,4 @@ It should look something like this...
 14. Commit your changes, push, and create a pull request
 
 Greydon was here!!
+Saihaj was here!!
