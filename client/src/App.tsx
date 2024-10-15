@@ -31,18 +31,7 @@ function App() {
 
   return (
     <>
-
-      {/* ----------- COMMENT OUT THIS CODE ----------- */}
-      <div className="flex flex-col items-center justify-center min-h-screen">
-        <div className="font-semibold text-5xl text-green-800">
-          Comment Out This Code!
-        </div>
-      </div>
-      {/* --------------------------------------------- */}
-
-
-      {/* ------------ UNCOMMENT THIS CODE ------------ */}
-      {/* <div className="flex flex-col items-center justify-center min-h-screen">
+      { <div className="flex flex-col items-center justify-center min-h-screen">
         <div className="font-semibold text-5xl text-green-800 pb-4">
           Garden School Foundation
         </div>
@@ -54,9 +43,8 @@ function App() {
         <div className="text-center mt-4">
           Nice Job! Now that you're seeing this, kill both terminals and cd back to the root project directory, commit, push and create a PR!
         </div>
-      </div> */}
-      {/* --------------------------------------------- */}
-
+      </div> }
+     
     </>
   );
 }
